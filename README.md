@@ -157,7 +157,7 @@ To design and implement a comprehensive Hospital Management System database that
 ### **Full Project:**
 
 1.   Basmala Atef Soliman
-2.   Rawan Ahmed Mohamed
+
 
 
 1.   Noran Ahmed Elsheikh
@@ -184,11 +184,9 @@ To design and implement a comprehensive Hospital Management System database that
 
 **Email :** [basmalasoliman78@gmail.com]
         [noran.ahmed.elsheikh@gmail.com]
-        [rueahmedd15@gmail.com]
 
 **LinkedIn :** [https://www.linkedin.com/in/basmala-atef-soliman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 [https://www.linkedin.com/in/noran-ahmed-elsheikh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-[https://www.linkedin.com/in/rawan-ahmad-415b66363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 ## ⭐ **Contributions & Support** :-
 
 ---
